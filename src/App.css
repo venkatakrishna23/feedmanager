@@ -1,0 +1,22 @@
+.side-components{
+float: left;
+
+margin: 5px;
+}
+
+.create-posts{
+float: left;
+margin: 2%;
+width: 50%;
+
+}
+#uploadBannerImage{
+  display: none;
+}
+
+
+  .customModal {
+  
+   min-height: 60vh;
+    width: 100%;
+  }

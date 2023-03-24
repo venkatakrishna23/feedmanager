@@ -1,0 +1,23 @@
+
+.display-feed{
+    background-color: rgba(128, 128, 128, 0.637);
+box-shadow: 2px 5px 7px -7px rgba(0, 0, 0, 0.75);
+border: 1px solid '#04AA6D' !important;
+margin-right: 15px;
+border-radius: 50%;
+
+}
+
+.selected-feed{
+    background-color: '#808080';
+     color: '#ffffff';
+      font-size: '20px';
+       border-radius: "50px";
+        margin-right: "5px" 
+  }
+  .feed{
+    color: '#04AA6D' !important;
+     font-size: '20px';
+      border-radius: "50px" !important;
+       margin-right: "5px" 
+  }
